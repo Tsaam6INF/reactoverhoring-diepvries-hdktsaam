@@ -1,5 +1,11 @@
+import Lade from "./components/lade";
+
 function App() {
-  return <></>;
+  return (
+    <>
+      <Lade naamLade="lade nummer1"></Lade>
+    </>
+  );
 }
 
 export default App;
